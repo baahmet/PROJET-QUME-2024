@@ -10,7 +10,7 @@
 
 ## 👥 Membres du groupe
 
-- 🔸 **Bâ Mohamet Lamine** 
+- 🔸 **Ba Mohamet Lamine** 
 - 🔸 **Ba Mouhamadou Al Bachir** 
 
 ---
@@ -35,7 +35,7 @@ Il met l'accent sur la qualité du code, la modularité, les tests unitaires et 
 - 🔹 **Maven** (build & gestion des dépendances)
 - 🔹 **JUnit 5** (tests unitaires)
 - 🔹 **Cucumber 7.14.0** (tests d’acceptance)
-- 🔹 **PlantUML** (diagramme de classes)
+- 🔹 **draw.io (diagramme de classes)
 - 🔹 **IntelliJ IDEA**
 
 ---
@@ -62,8 +62,8 @@ Projet_QUME_L3/
                 ├──models/ contient les fichier.java des classes.
                           ├──Boisson
                           ├──Distributeur
-		  ├──JournalVente
-		  ├──Portefeuille
+		                      ├──JournalVente
+		                      ├──Portefeuille
                           ├──Transaction
                           ├──Utilisateur
        └── resources/ 
@@ -129,7 +129,7 @@ mvn clean test
 
 ## 📘 Rapport PDF
 
-Le fichier [`Projet_QUME_2024.pdf`](./Projet_QUME_2024.pdf) contient :
+Le fichier Projet_QUME_2024.pdf contient :
 
 - ✅ Le diagramme de classes UML
 - ✅ La description des classes
@@ -137,13 +137,6 @@ Le fichier [`Projet_QUME_2024.pdf`](./Projet_QUME_2024.pdf) contient :
 - ✅ La liste des scénarios Gherkin (15)
 - ✅ Les noms des étudiants
 - ✅ Une conclusion sur le projet
-
----
-
-## 📸 Diagramme de classes UML
-
-
-
 
 ---
 
